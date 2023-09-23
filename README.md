@@ -1,7 +1,8 @@
 # Coding-Raja-Technologies-Internship-Task-2
 # Online Music Player
 
-![Music Player Screenshot](screenshot.png)
+![Music Player Screenshot](https://github.com/JASHWANTHS07/Coding-Raja-Technologies-Internship-Task-2/assets/135448421/a4fd0f75-32a4-4fcf-80dd-680475c6d49a)
+
 
 This is a simple online music player webpage that allows you to play and control music tracks. It features an attractive and responsive design, making it easy to use on both desktop and mobile devices.
 
